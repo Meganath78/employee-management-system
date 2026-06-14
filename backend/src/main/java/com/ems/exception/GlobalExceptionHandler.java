@@ -1,0 +1,1 @@
+package com.ems.exception; public class GlobalExceptionHandler{}

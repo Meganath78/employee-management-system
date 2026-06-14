@@ -1,0 +1,1 @@
+package com.ems.entity; public class Employee{Long id;String name;}

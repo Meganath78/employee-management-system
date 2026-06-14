@@ -1,0 +1,1 @@
+CREATE TABLE employees(id BIGINT PRIMARY KEY,name VARCHAR(100));
